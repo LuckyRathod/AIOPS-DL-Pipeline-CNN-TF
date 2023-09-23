@@ -1,5 +1,6 @@
 # dvc-project-template
-DVC project template
+
+DVC Project for AIOPS-DL-Pipeline-CNN-TF
 
 ## STEPS -
 
