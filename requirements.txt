@@ -1,8 +1,11 @@
 ### dependency
-black==21.7b0
-dvc==2.7.2
-tqdm==4.62.3
+black
+dvc
+tqdm
 tensorflow
+joblib
+Pillow
+scipy
 
 
 ### local packages -
